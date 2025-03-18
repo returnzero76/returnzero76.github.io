@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.skt.nugu.apollo.stg",
+    "sha256_cert_fingerprints":
+    ["46:D6:74:13:0E:04:E8:E0:F2:31:F7:C6:70:59:F2:85:18:40:63:3E:A3:6F:65:0E:82:E0:2C:07:6E:C8:19:A9"]
+  }
+}]
